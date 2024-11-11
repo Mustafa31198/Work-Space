@@ -1,0 +1,30 @@
+#quoteGeneation{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)) , url(../images/69a0c294ee84193b9b2307786039443a.jpg!w700wp) ;
+    background-position: center;
+    background-size: cover;
+
+}
+h1{
+        font-family: "Faculty Glyphic", sans-serif;
+        font-size: 73px;
+        font-weight: 600;
+        font-style: normal;     
+}
+.btn{font-family: "Faculty Glyphic", sans-serif;}
+.press{
+    font-family: "Faculty Glyphic", sans-serif;
+    color: gray;
+}
+
+#nweQuote{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 24px;
+    font-weight:400 ;
+
+}
+#writer{
+    font-family: "Sour Gummy", sans-serif;
+    font-size: 20px;
+    font-weight:300 ;
+}
